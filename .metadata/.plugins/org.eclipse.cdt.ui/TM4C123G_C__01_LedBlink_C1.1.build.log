@@ -1,0 +1,16 @@
+
+**** Clean-only build of configuration Debug for project TM4C123G_C__01_LedBlink_C1.1 ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k clean 
+DEL /F  "TM4C123G_C__01_LedBlink_C1.1.out"  "TM4C123G_C__01_LedBlink_C1.1.hex" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.1\Debug\TM4C123G_C__01_LedBlink_C1.1.out
+DEL /F "main.pp" "tm4c123gh6pm_startup_ccs.pp" "LIBS\Led_driver.pp" "LIBS\SysTick.pp" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.1\Debug\main.pp
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.1\Debug\LIBS\Led_driver.pp
+DEL /F "main.obj" "tm4c123gh6pm_startup_ccs.obj" "LIBS\Led_driver.obj" "LIBS\SysTick.obj" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.1\Debug\main.obj
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.1\Debug\LIBS\Led_driver.obj
+'Finished clean'
+' '
+
+**** Build Finished ****

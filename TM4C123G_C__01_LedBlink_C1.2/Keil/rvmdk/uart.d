@@ -1,0 +1,9 @@
+.\rvmdk\uart.o: ..\LIBS\Uart.c
+.\rvmdk\uart.o: ..\LIBS\Uart.h
+.\rvmdk\uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\rvmdk\uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\rvmdk\uart.o: C:\ti\TivaWare_C_Series-2.1.1.71\inc/hw_memmap.h
+.\rvmdk\uart.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/gpio.h
+.\rvmdk\uart.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/pin_map.h
+.\rvmdk\uart.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/sysctl.h
+.\rvmdk\uart.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/uart.h

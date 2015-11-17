@@ -1,0 +1,11 @@
+--cpu Cortex-M4.fp
+".\rvmdk\startup_rvmdk.o"
+".\rvmdk\main.o"
+".\rvmdk\led.o"
+".\rvmdk\systick.o"
+".\rvmdk\uart.o"
+"C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\rvmdk\driverlib.lib"
+--library_type=microlib --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict
+--entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\rvmdk\project.map" -o .\rvmdk\project.axf

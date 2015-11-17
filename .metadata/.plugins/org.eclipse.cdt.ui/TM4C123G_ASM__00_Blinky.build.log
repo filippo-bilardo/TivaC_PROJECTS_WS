@@ -1,0 +1,16 @@
+
+**** Clean-only build of configuration Debug for project TM4C123G_ASM__00_Blinky ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k clean 
+DEL /F  "TM4C123G_ASM__00_Blinky.out"  "TM4C123G_ASM__00_Blinky.hex" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_ASM__00_Blinky\Debug\TM4C123G_ASM__00_Blinky.out
+DEL /F "tm4c123gh6pm_startup_ccs.pp" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_ASM__00_Blinky\Debug\tm4c123gh6pm_startup_ccs.pp
+DEL /F "LedBlink.pp" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_ASM__00_Blinky\Debug\LedBlink.pp
+DEL /F "LedBlink.obj" "tm4c123gh6pm_startup_ccs.obj" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_ASM__00_Blinky\Debug\LedBlink.obj
+'Finished clean'
+' '
+
+**** Build Finished ****

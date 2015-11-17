@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TM4C123GH6PM_ASM__Secondo/primo.s&apos; to &apos;main.s&apos;" description="Rename resource &apos;primo.s&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="primo.s" name="main.s" stamp="1445804523599" updateReferences="true"/>
+</session>

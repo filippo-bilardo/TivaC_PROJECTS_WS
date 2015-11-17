@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TM4C123G_C__0B3_LedBlink/INC&apos; to &apos;LIBS&apos;" description="Rename resource &apos;INC&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="INC" name="LIBS" stamp="1447453297371" updateReferences="true"/>
+</session>

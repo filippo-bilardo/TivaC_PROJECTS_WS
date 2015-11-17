@@ -1,0 +1,11 @@
+
+**** Clean-only build of configuration Debug for project TM4C123G_C__01_LedBlink_C1.0 ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k clean 
+DEL /F  "TM4C123G_C__01_LedBlink_C1.0.out"  "TM4C123G_C__01_LedBlink_C1.0.hex" 
+DEL /F "main.pp" "tm4c123gh6pm_startup_ccs.pp" 
+DEL /F "main.obj" "tm4c123gh6pm_startup_ccs.obj" 
+'Finished clean'
+' '
+
+**** Build Finished ****

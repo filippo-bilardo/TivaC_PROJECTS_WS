@@ -1,0 +1,12 @@
+
+**** Clean-only build of configuration Debug for project TM4C123GH6PM-C_BlinkyLed1 ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k clean 
+DEL /F  "TM4C123GH6PM-C_BlinkyLed1.out"  "TM4C123GH6PM-C_BlinkyLed1.hex" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\CCS_WS\TM4C123GH6PM-C_BlinkyLed1\Debug\TM4C123GH6PM-C_BlinkyLed1.out
+DEL /F "lm3s9b92_startup_ccs.pp" "main.pp" "Librerie\TIME\Time.pp" "Librerie\GPIO\Gpio.pp" 
+DEL /F "lm3s9b92_startup_ccs.obj" "main.obj" "Librerie\TIME\Time.obj" "Librerie\GPIO\Gpio.obj" 
+'Finished clean'
+' '
+
+**** Build Finished ****

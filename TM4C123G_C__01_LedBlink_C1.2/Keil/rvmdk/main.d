@@ -1,0 +1,17 @@
+.\rvmdk\main.o: ..\main.c
+.\rvmdk\main.o: ..\DRIVERS/HwConfig.h
+.\rvmdk\main.o: ..\DRIVERS/tm4c1231h6pm.h
+.\rvmdk\main.o: ..\DRIVERS/HwConfig_Launchpad.h
+.\rvmdk\main.o: ..\LIBS/Led.h
+.\rvmdk\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\rvmdk\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\rvmdk\main.o: C:\ti\TivaWare_C_Series-2.1.1.71\inc/hw_memmap.h
+.\rvmdk\main.o: C:\ti\TivaWare_C_Series-2.1.1.71\inc/hw_types.h
+.\rvmdk\main.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/sysctl.h
+.\rvmdk\main.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/gpio.h
+.\rvmdk\main.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/rom.h
+.\rvmdk\main.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/debug.h
+.\rvmdk\main.o: ..\LIBS/../LIBS/SysTick.h
+.\rvmdk\main.o: ..\LIBS/Uart.h
+.\rvmdk\main.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/pin_map.h
+.\rvmdk\main.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/uart.h

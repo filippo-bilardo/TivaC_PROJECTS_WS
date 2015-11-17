@@ -1,0 +1,14 @@
+.\rvmdk\led.o: ..\LIBS\Led.c
+.\rvmdk\led.o: ..\LIBS\Led.h
+.\rvmdk\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\rvmdk\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\rvmdk\led.o: C:\ti\TivaWare_C_Series-2.1.1.71\inc/hw_memmap.h
+.\rvmdk\led.o: C:\ti\TivaWare_C_Series-2.1.1.71\inc/hw_types.h
+.\rvmdk\led.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/sysctl.h
+.\rvmdk\led.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/gpio.h
+.\rvmdk\led.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/rom.h
+.\rvmdk\led.o: C:\ti\TivaWare_C_Series-2.1.1.71\driverlib/debug.h
+.\rvmdk\led.o: ..\LIBS\../DRIVERS/HwConfig.h
+.\rvmdk\led.o: ..\LIBS\../DRIVERS/tm4c1231h6pm.h
+.\rvmdk\led.o: ..\LIBS\../DRIVERS/HwConfig_Launchpad.h
+.\rvmdk\led.o: ..\LIBS\../LIBS/SysTick.h

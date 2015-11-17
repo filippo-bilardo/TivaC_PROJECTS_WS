@@ -1,0 +1,12 @@
+
+**** Build of configuration Debug for project TM4C123G_C__0B1_LedBlink ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building target: TM4C123G_C__0B1_LedBlink.out'
+'Invoking: ARM Linker'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --abi=eabi -me -O2 -g --gcc --define="ccs" --define=ccs="ccs" --define=TARGET_IS_TM4C123_RA3 --define=PART_TM4C123GH6PM --diag_warning=225 --display_error_number --diag_wrap=off --gen_func_subsections=on --ual -z -m"project_ccs.map" --heap_size=0 --stack_size=256 -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/lib" -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/include" --reread_libs --warn_sections --diag_wrap=off --display_error_number --xml_link_info="TM4C123G_C__0B1_LedBlink_linkInfo.xml" --rom_model -o "TM4C123G_C__0B1_LedBlink.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -l"libc.a" -l"C:/ti/TivaWare_C_Series-2.1.1.71/examples/project/ccs/../../../driverlib/ccs/Debug/driverlib.lib" 
+<Linking>
+'Finished building target: TM4C123G_C__0B1_LedBlink.out'
+' '
+
+**** Build Finished ****

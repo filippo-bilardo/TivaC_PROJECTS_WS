@@ -1,0 +1,47 @@
+Dependencies for Project 'projects', Target 'TM4C123G_C__01_LedBlink_C1.2': (DO NOT MODIFY !)
+F (.\startup_rvmdk.S)(0x5648658B)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I "C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.2\Keil\RTE"-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 516" --pd "TM4C123GH6PM SETA 1"-o .\rvmdk\startup_rvmdk.o --depend .\rvmdk\startup_rvmdk.d)
+F (..\main.c)(0x56486DA5)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -IC:\ti\TivaWare_C_Series-2.1.1.71 --c99-I "C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.2\Keil\RTE"-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DTM4C123GH6PM -Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1-o .\rvmdk\main.o --omf_browse .\rvmdk\main.crf --depend .\rvmdk\main.d)
+I (..\DRIVERS/HwConfig.h)(0x5648316E)
+I (..\DRIVERS/tm4c1231h6pm.h)(0x563E19DB)
+I (..\DRIVERS/HwConfig_Launchpad.h)(0x56476611)
+I (..\LIBS/Led.h)(0x564859AB)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF4A52)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF4A52)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\inc\hw_memmap.h)(0x564614B5)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\inc\hw_types.h)(0x564614B5)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\sysctl.h)(0x5646140A)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\gpio.h)(0x5646140A)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\rom.h)(0x5646140A)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\debug.h)(0x56461409)
+I (..\LIBS/../LIBS/SysTick.h)(0x563E28D7)
+I (..\LIBS/Uart.h)(0x564861DF)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\pin_map.h)(0x5646140A)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\uart.h)(0x5646140A)
+F (..\LIBS\Led.c)(0x564862C0)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -IC:\ti\TivaWare_C_Series-2.1.1.71 --c99-I "C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.2\Keil\RTE"-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DTM4C123GH6PM -Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1-o .\rvmdk\led.o --omf_browse .\rvmdk\led.crf --depend .\rvmdk\led.d)
+I (..\LIBS\Led.h)(0x564859AB)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF4A52)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF4A52)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\inc\hw_memmap.h)(0x564614B5)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\inc\hw_types.h)(0x564614B5)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\sysctl.h)(0x5646140A)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\gpio.h)(0x5646140A)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\rom.h)(0x5646140A)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\debug.h)(0x56461409)
+I (..\LIBS\../DRIVERS/HwConfig.h)(0x5648316E)
+I (..\LIBS\../DRIVERS/tm4c1231h6pm.h)(0x563E19DB)
+I (..\LIBS\../DRIVERS/HwConfig_Launchpad.h)(0x56476611)
+I (..\LIBS\../LIBS/SysTick.h)(0x563E28D7)
+F (..\LIBS\SysTick.c)(0x564873D7)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -IC:\ti\TivaWare_C_Series-2.1.1.71 --c99-I "C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.2\Keil\RTE"-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DTM4C123GH6PM -Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1-o .\rvmdk\systick.o --omf_browse .\rvmdk\systick.crf --depend .\rvmdk\systick.d)
+I (..\LIBS\../LIBS/SysTick.h)(0x563E28D7)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF4A52)
+F (..\LIBS\Uart.c)(0x5648665E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -IC:\ti\TivaWare_C_Series-2.1.1.71 --c99-I "C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.2\Keil\RTE"-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DTM4C123GH6PM -Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1-o .\rvmdk\uart.o --omf_browse .\rvmdk\uart.crf --depend .\rvmdk\uart.d)
+I (..\LIBS\Uart.h)(0x564861DF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF4A52)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF4A52)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\inc\hw_memmap.h)(0x564614B5)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\gpio.h)(0x5646140A)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\pin_map.h)(0x5646140A)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\sysctl.h)(0x5646140A)
+I (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\uart.h)(0x5646140A)
+F (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\rvmdk\driverlib.lib)(0x5646140A)()
+F (.\readme.txt)(0x00000000)()

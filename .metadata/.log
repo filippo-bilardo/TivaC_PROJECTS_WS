@@ -1,0 +1,914 @@
+!SESSION 2015-11-14 10:36:14.165 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.7.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=it_IT
+Framework arguments:  -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product
+
+This is a continuation of log file C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\.metadata\.bak_0.log
+Created Time: 2015-11-15 13:11:38.174
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.175
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.177
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.180
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.183
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.186
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.189
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.192
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.195
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.197
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.200
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.203
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.205
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.208
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.211
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.214
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.217
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.220
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.223
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.226
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.228
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.231
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.234
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.237
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.240
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.243
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.245
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.248
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.251
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.254
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.257
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.260
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.263
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.296
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.317
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.321
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.324
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.327
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.330
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.333
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.336
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.340
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.343
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.346
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.349
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.352
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.355
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.358
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.361
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.364
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.368
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.371
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.375
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.378
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.381
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.385
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.388
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.391
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.394
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.396
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.399
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.403
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.406
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.413
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.416
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.419
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.422
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.426
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.429
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.432
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.435
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.438
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.441
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.445
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.448
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.452
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.455
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.458
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.462
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.465
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.469
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.472
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.475
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.478
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.481
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.485
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.488
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.492
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.496
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.499
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.503
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.506
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.514
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.519
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.522
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.525
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.528
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.531
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.535
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.538
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.559
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.562
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.564
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.567
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.570
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.573
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.576
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.579
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.582
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.585
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.589
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.592
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.595
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.598
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.602
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.605
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.608
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.611
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.614
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.618
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.622
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.625
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.629
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.645
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.649
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.653
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.656
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.659
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.662
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.665
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.668
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.671
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.674
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.678
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.681
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.684
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.687
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.691
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.694
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.697
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.700
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.703
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.707
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.710
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.713
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.716
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.720
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.723
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.726
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.729
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.732
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.735
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.738
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.745
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.750
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.753
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.756
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.760
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.763
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.766
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.770
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.773
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.776
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.780
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.784
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.787
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.791
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.794
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.797
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.801
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.804
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.807
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.811
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.814
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.818
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.858
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.862
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.865
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.869
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.872
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.876
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.880
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.886
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.892
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.896
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.899
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.903
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.906
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.910
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.913
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.917
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.921
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.924
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.927
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.930
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.934
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.937
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.941
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.944
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.947
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.951
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.955
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.958
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.962
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.965
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.969
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.972
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.976
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.980
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.984
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.987
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.990
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.994
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:38.997
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.001
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.004
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.008
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.011
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.014
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.018
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.021
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.025
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.028
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.032
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.035
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.039
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.042
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.046
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.049
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.053
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.056
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.060
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.063
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.067
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.070
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.074
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.085
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.091
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.095
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.102
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.105
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.109
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.112
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.116
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.120
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.123
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.127
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.130
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.134
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.138
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.142
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.146
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.150
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.154
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.157
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.161
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.165
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.169
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.173
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.177
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.181
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.202
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.212
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.215
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.219
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.223
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.226
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.230
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.234
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.237
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.241
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.244
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.248
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.251
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.255
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.259
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.262
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.267
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.271
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.274
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.278
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.282
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.286
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.289
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.293
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.296
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.301
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.311
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.314
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.317
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.321
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.325
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.329
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.core.resources 4 568 2015-11-15 13:11:39.333
+!MESSAGE Could not set property: ccs associatedHeaderFiles. Value is too long.
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-11-15 13:12:22.620
+!MESSAGE Indexed 'TM4C123G_C__01_LedBlink_C1.2' (5 sources, 23 headers) in 0,679 sec: 621 declarations; 4.880 references; 7 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2015-11-15 13:53:23.155 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.7.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=it_IT
+Framework arguments:  -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product
+
+!ENTRY com.ti.common.core 4 0 2015-11-15 13:57:54.326
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 4 0 2015-11-15 13:57:54.327
+!MESSAGE debugServerDir=C:/ti/ccsv6/ccs_base/DebugServer
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-11-15 14:01:39.495
+!MESSAGE Indexed 'TM4C123G_C__01_LedBlink_B1.0' (3 sources, 2 headers) in 0,838 sec: 119 declarations; 269 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-11-15 14:05:06.494
+!MESSAGE Indexed 'TM4C123G_C__01_LedBlink_C1.2' (5 sources, 23 headers) in 1,8 sec: 621 declarations; 4.880 references; 7 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.dsf.ui 2 0 2015-11-15 14:05:30.022
+!MESSAGE Unable to locate file: C:/Jenkins/workspace/TivaWare-Git-Release/DriverLib/build/DriverLib.test/driverlib/gpio.c
