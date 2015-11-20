@@ -1,0 +1,155 @@
+
+**** Build of configuration Debug for project TM4C123G_ASM__ ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --abi=eabi -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/include" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="main.pp"  "../main.c"
+"../main.c", line 1: error #171: expected a declaration
+"../main.c", line 3: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 3: error #66: expected a ";"
+"../main.c", line 4: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 4: error #66: expected a ";"
+"../main.c", line 5: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 5: error #66: expected a ";"
+"../main.c", line 7: error #171: expected a declaration
+"../main.c", line 9: error #20: identifier "Lampeggio" is undefined
+"../main.c", line 9: error #66: expected a ";"
+"../main.c", line 11: error #20: identifier "Ver" is undefined
+"../main.c", line 11: error #66: expected a ";"
+"../main.c", line 12: error #171: expected a declaration
+"../main.c", line 13: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 13: error #66: expected a ";"
+"../main.c", line 15: error #171: expected a declaration
+"../main.c", line 17: error #171: expected a declaration
+"../main.c", line 18: error #171: expected a declaration
+"../main.c", line 19: error #171: expected a declaration
+"../main.c", line 22: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 22: error #20: identifier "PortF" is undefined
+"../main.c", line 22: error #66: expected a ";"
+"../main.c", line 23: error #20: identifier "PortF" is undefined
+"../main.c", line 23: error #66: expected a ";"
+"../main.c", line 24: error #20: identifier "Port" is undefined
+"../main.c", line 24: error #66: expected a ";"
+"../main.c", line 25: error #20: identifier "PortF" is undefined
+"../main.c", line 25: error #66: expected a ";"
+"../main.c", line 26: error #20: identifier "PortF" is undefined
+"../main.c", line 26: error #66: expected a ";"
+"../main.c", line 28: error #20: identifier "PortF" is undefined
+"../main.c", line 28: error #66: expected a ";"
+"../main.c", line 34: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 34: error #20: identifier "Enable" is undefined
+"../main.c", line 34: error #66: expected a ";"
+"../main.c", line 35: error #20: identifier "Set" is undefined
+"../main.c", line 35: error #66: expected a ";"
+"../main.c", line 37: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 37: error #66: expected a ";"
+"../main.c", line 38: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 38: error #66: expected a ";"
+"../main.c", line 40: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 40: error #66: expected a ";"
+"../main.c", line 41: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 41: error #66: expected a ";"
+"../main.c", line 42: error #20: identifier "allow" is undefined
+"../main.c", line 42: error #66: expected a ";"
+"../main.c", line 44: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 44: error #66: expected a ";"
+"../main.c", line 48: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 49: error #41: expected an identifier
+"../main.c", line 50: error #171: expected a declaration
+"../main.c", line 53: error #20: identifier "Allocazione" is undefined
+"../main.c", line 53: error #66: expected a ";"
+"../main.c", line 55: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 56: error #66: expected a ";"
+"../main.c", line 58: error #171: expected a declaration
+"../main.c", line 59: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 59: error #66: expected a ";"
+"../main.c", line 60: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 60: error #66: expected a ";"
+"../main.c", line 63: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 63: error #171: expected a declaration
+"../main.c", line 64: error #171: expected a declaration
+"../main.c", line 64: error #8: missing closing quote
+"../main.c", line 65: error #171: expected a declaration
+"../main.c", line 87: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 87: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 87: error #66: expected a ";"
+"../main.c", line 88: error #20: identifier "LDR" is undefined
+"../main.c", line 88: error #20: identifier "Abilita" is undefined
+"../main.c", line 88: error #66: expected a ";"
+"../main.c", line 89: error #10: "#" not expected here
+"../main.c", line 91: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 91: error #20: identifier "allow" is undefined
+"../main.c", line 91: error #66: expected a ";"
+"../main.c", line 93: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 93: error #66: expected a ";"
+"../main.c", line 93: error #20: identifier "unlock" is undefined
+"../main.c", line 93: error #66: expected a ";"
+"../main.c", line 97: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 97: error #20: identifier "allow" is undefined
+"../main.c", line 97: error #66: expected a ";"
+"../main.c", line 99: error #10: "#" not expected here
+"../main.c", line 101: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 101: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 101: error #66: expected a ";"
+"../main.c", line 101: error #20: identifier "disable" is undefined
+"../main.c", line 101: error #66: expected a ";"
+"../main.c", line 103: error #20: identifier "R1" is undefined
+"../main.c", line 104: error #66: expected a ";"
+"../main.c", line 105: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 105: error #66: expected a ";"
+"../main.c", line 105: error #20: identifier "PCTL" is undefined
+"../main.c", line 105: error #66: expected a ";"
+"../main.c", line 108: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 108: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 108: error #66: expected a ";"
+"../main.c", line 108: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 108: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 108: error #66: expected a ";"
+"../main.c", line 109: error #20: identifier "Imposta" is undefined
+"../main.c", line 109: error #66: expected a ";"
+"../main.c", line 110: error #10: "#" not expected here
+"../main.c", line 112: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 112: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 112: error #66: expected a ";"
+"../main.c", line 112: error #20: identifier "disable" is undefined
+"../main.c", line 112: error #66: expected a ";"
+"../main.c", line 114: error #20: identifier "R1" is undefined
+"../main.c", line 115: error #66: expected a ";"
+"../main.c", line 116: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 116: error #20: identifier "enable" is undefined
+"../main.c", line 116: error #66: expected a ";"
+"../main.c", line 118: error #10: "#" not expected here
+"../main.c", line 120: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 120: warning #78-D: this declaration has no storage class or type specifier
+"../main.c", line 120: error #66: expected a ";"
+"../main.c", line 120: error #20: identifier "enable" is undefined
+"../main.c", line 120: error #66: expected a ";"
+"../main.c", line 122: error #10: "#" not expected here
+"../main.c", line 124: warning #12-D: parsing restarts here after previous syntax error
+"../main.c", line 125: error #20: identifier "LDR" is undefined
+"../main.c", line 125: error #760: variable "R3" is not a type name
+"../main.c", line 125: error #66: expected a ";"
+"../main.c", line 127: error #20: identifier "Loop_1" is undefined
+"../main.c", line 128: error #66: expected a ";"
+"../main.c", line 129: error #10: "#" not expected here
+"../main.c", line 129: error #20: identifier "LED" is undefined
+"../main.c", line 129: error #29: expected an expression
+"../main.c", line 130: error #41: expected an identifier
+"../main.c", line 132: error #20: identifier "Loop" is undefined
+
+"../main.c", line 132: error #66: expected a ";"
+>> Compilation failure
+"../main.c", line 133: error #20: identifier "Load" is undefined
+Error limit reached.
+100 errors detected in the compilation of "../main.c".
+Compilation terminated.
+gmake: *** [main.obj] Error 1
+'Building file: ../tm4c123gh6pm_startup_ccs.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --abi=eabi -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/include" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="tm4c123gh6pm_startup_ccs.pp"  "../tm4c123gh6pm_startup_ccs.c"
+'Finished building: ../tm4c123gh6pm_startup_ccs.c'
+' '
+gmake: Target `all' not remade because of errors.
+
+**** Build Finished ****
