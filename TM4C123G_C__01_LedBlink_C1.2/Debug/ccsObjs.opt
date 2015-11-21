@@ -1,1 +1,0 @@
-"./main.obj" "./tm4c1231h6pm_startup_ccs.obj" "./LIBS/Led.obj" "./LIBS/SysTick.obj" "./LIBS/Uart.obj" "../tm4c1231h6pm.cmd" -l"libc.a" -l"C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\ccs\Debug\driverlib.lib" 

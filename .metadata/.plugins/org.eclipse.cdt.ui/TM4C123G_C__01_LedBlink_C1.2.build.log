@@ -1,7 +1,11 @@
 
-**** Build of configuration Debug for project TM4C123G_C__01_LedBlink_C1.2 ****
+**** Clean-only build of configuration Debug for project TM4C123G_C__01_LedBlink_C1.2 ****
 
-"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
-gmake: Nothing to be done for `all'.
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k clean 
+DEL /F  "TM4C123G_C__01_LedBlink_C1.2.out"  "TM4C123G_C__01_LedBlink_C1.2.hex" 
+DEL /F "main.pp" "tm4c1231h6pm_startup_ccs.pp" "LIBS\Led.pp" "LIBS\SysTick.pp" "LIBS\Uart.pp" 
+DEL /F "main.obj" "tm4c1231h6pm_startup_ccs.obj" "LIBS\Led.obj" "LIBS\SysTick.obj" "LIBS\Uart.obj" 
+'Finished clean'
+' '
 
 **** Build Finished ****

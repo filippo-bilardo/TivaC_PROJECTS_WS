@@ -5,7 +5,7 @@
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROGRAM.Stellaris In-Circuit Debug Interface_0/CORTEX_M4_0" value="${build_artifact:TM4C123G_C__01_LedBlink_C1.1}"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROJECT.Stellaris In-Circuit Debug Interface_0/CORTEX_M4_0" value="TM4C123G_C__01_LedBlink_C1.1"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_TARGET_CONFIG" value="${target_config_active_default:TM4C123G_C__01_LedBlink_C1.1}"/>
-<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.Stellaris In-Circuit Debug Interface_0/CORTEX_M4_0" value="C:/Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\TECNOLOGIA_WS\TM4C123G_C__01_LedBlink_C1.1\Debug\TM4C123G_C__01_LedBlink_C1.1.out"/>
+<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.Stellaris In-Circuit Debug Interface_0/CORTEX_M4_0" value="C:/Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\ARM_PROJECTS_CCS_WS\TM4C123G_C__01_LedBlink_C1.1\Debug\TM4C123G_C__01_LedBlink_C1.1.out"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <listEntry value="/TM4C123G_C__01_LedBlink_C1.1"/>
 </listAttribute>
