@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker PC v5.2.6                      
 ******************************************************************************
->> Linked Fri Nov 20 22:26:38 2015
+>> Linked Sat Nov 21 08:59:41 2015
 
 OUTPUT FILE NAME:   <TM4C123G_ASM__00_Blinky_A10.out>
 ENTRY POINT SYMBOL: "_c_int00"  address: 000004f9
@@ -37,7 +37,7 @@ section   page    origin      length       input sections
                   00000000    0000026c     tm4c123gh6pm_startup_ccs.obj (.intvecs)
 
 .text      0    0000026c    000003bc     
-                  0000026c    0000009c     LedBlink.obj (.text)
+                  0000026c    0000009c     main.obj (.text)
                   00000308    0000009c     rtsv7M4_T_le_v4SPD16_eabi.lib : memcpy_t2.obj (.text)
                   000003a4    0000007a                                   : memset_t2.obj (.text)
                   0000041e    00000002     --HOLE-- [fill = 0]

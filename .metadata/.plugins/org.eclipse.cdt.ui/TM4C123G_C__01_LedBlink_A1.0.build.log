@@ -1,11 +1,22 @@
 
-**** Clean-only build of configuration Debug for project TM4C123G_C__01_LedBlink_A1.0 ****
+**** Build of configuration Debug for project TM4C123G_C__01_LedBlink_A1.0 ****
 
-"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k clean 
-DEL /F  "TM4C123G_C__01_LedBlink_A1.0.out"  "TM4C123G_C__01_LedBlink_A1.0.hex" 
-DEL /F "main.pp" "tm4c123gh6pm_startup_ccs.pp" 
-DEL /F "main.obj" "tm4c123gh6pm_startup_ccs.obj" 
-'Finished clean'
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --abi=eabi -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/include" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="main.pp"  "../main.c"
+'Finished building: ../main.c'
+' '
+'Building file: ../tm4c123gh6pm_startup_ccs.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --abi=eabi -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/include" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="tm4c123gh6pm_startup_ccs.pp"  "../tm4c123gh6pm_startup_ccs.c"
+'Finished building: ../tm4c123gh6pm_startup_ccs.c'
+' '
+'Building target: TM4C123G_C__01_LedBlink_A1.0.out'
+'Invoking: ARM Linker'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --abi=eabi -me -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --display_error_number --diag_wrap=off -z -m"TM4C123G_C__01_LedBlink_A1.0.map" --heap_size=0 --stack_size=512 -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/lib" -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_5.2.6/include" --reread_libs --warn_sections --diag_wrap=off --display_error_number --xml_link_info="TM4C123G_C__01_LedBlink_A1.0_linkInfo.xml" --rom_model -o "TM4C123G_C__01_LedBlink_A1.0.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -l"libc.a" 
+<Linking>
+'Finished building target: TM4C123G_C__01_LedBlink_A1.0.out'
 ' '
 
 **** Build Finished ****

@@ -1,1 +1,3 @@
-repo.sh
+*.obj
+*.log
+**/Debug
