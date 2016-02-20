@@ -3,8 +3,15 @@
 
 "C:\\ti\\ccsv6\\utils\\bin\\gmake" -k clean 
 DEL /F  "TM4C123G_C__03_FBCP_A10.out"  "TM4C123G_C__03_FBCP_A10.hex" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\ARM_PROJECTS_CCS_WS\TM4C123G_C__03_FBCP_A10\Debug\TM4C123G_C__03_FBCP_A10.out
 DEL /F "main.pp" "tm4c123gh6pm_startup_ccs.pp" "utils\uartstdio.pp" "LIBS\FBCP.pp" "LIBS\Led.pp" "LIBS\Puls.pp" "LIBS\SysTick.pp" "LIBS\Uart.pp" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\ARM_PROJECTS_CCS_WS\TM4C123G_C__03_FBCP_A10\Debug\main.pp
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\ARM_PROJECTS_CCS_WS\TM4C123G_C__03_FBCP_A10\Debug\utils\uartstdio.pp
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\ARM_PROJECTS_CCS_WS\TM4C123G_C__03_FBCP_A10\Debug\LIBS\FBCP.pp
 DEL /F "main.obj" "tm4c123gh6pm_startup_ccs.obj" "utils\uartstdio.obj" "LIBS\FBCP.obj" "LIBS\Led.obj" "LIBS\Puls.obj" "LIBS\SysTick.obj" "LIBS\Uart.obj" 
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\ARM_PROJECTS_CCS_WS\TM4C123G_C__03_FBCP_A10\Debug\main.obj
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\ARM_PROJECTS_CCS_WS\TM4C123G_C__03_FBCP_A10\Debug\utils\uartstdio.obj
+Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\ARM_PROJECTS_CCS_WS\TM4C123G_C__03_FBCP_A10\Debug\LIBS\FBCP.obj
 'Finished clean'
 ' '
 

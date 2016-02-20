@@ -2111,3 +2111,9 @@ org.osgi.framework.BundleException: Unable to acquire the state change lock for 
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-02-20 19:20:09.618
 !MESSAGE Indexed 'TM4C123G_C__03_FBCP_A10' (8 sources, 32 headers) in 2,63 sec: 851 declarations; 7.036 references; 0 unresolved inclusions; 1 syntax errors; 8 unresolved names (0,1%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-02-20 19:26:02.131
+!MESSAGE Indexed 'Copy of TM4C123G_C__03_FBCP_A11' (10 sources, 34 headers) in 1,37 sec: 892 declarations; 7.184 references; 0 unresolved inclusions; 1 syntax errors; 8 unresolved names (0,099%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-02-20 19:26:20.372
+!MESSAGE Indexed 'TM4C123G_C__03_FBCP_A10' (8 sources, 32 headers) in 2,28 sec: 851 declarations; 7.036 references; 0 unresolved inclusions; 1 syntax errors; 8 unresolved names (0,1%)
