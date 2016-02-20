@@ -3,36 +3,36 @@
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="305" key="DIALOG_WIDTH"/>
 		<item value="78" key="DIALOG_Y_ORIGIN"/>
-		<item value="444" key="DIALOG_HEIGHT"/>
 		<item value="1614" key="DIALOG_X_ORIGIN"/>
+		<item value="444" key="DIALOG_HEIGHT"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="true" key="wrap"/>
-		<item value="false" key="isRegEx"/>
 		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="" key="selection"/>
+		<item value="//------------------------------------------------------------------------------------------" key="selection"/>
 		<list key="findhistory">
-			<item value="#define "/>
-			<item value="PortFAMSelReg"/>
-			<item value="PortFDataEnReg"/>
-			<item value="PortFAFSelReg"/>
-			<item value="//"/>
 			<item value="//--------------------------------------------------------------------------------------------------"/>
-			<item value="//=================================================================================================="/>
-			<item value="//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"/>
+			<item value="l1_2"/>
+			<item value="convert"/>
+			<item value="UARTvprintf"/>
+			<item value="UARTprintf"/>
+			<item value="//"/>
+			<item value="*"/>
+			<item value="__STACK_TOP"/>
 		</list>
 		<list key="replacehistory">
+			<item value="//------------------------------------------------------------------------------------------"/>
+			<item value="l1_2x"/>
+			<item value=";"/>
+			<item value="    "/>
+			<item value="  "/>
 			<item value=""/>
 			<item value="FGPIO_PORTF_DEN_R"/>
 			<item value="FGPIO_PORTF_AFSEL_R"/>
-			<item value=";"/>
-			<item value="//------------------------------------------------------------------------------------------"/>
-			<item value="//=========================================================================================="/>
-			<item value="//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"/>
-			<item value="GPIO_PIN_3"/>
 		</list>
 	</section>
 </section>

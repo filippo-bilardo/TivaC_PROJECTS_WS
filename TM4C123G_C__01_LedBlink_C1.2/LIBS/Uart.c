@@ -1,43 +1,46 @@
 //------------------------------------------------------------------------------------------
 //=== Includes =============================================================================
 //------------------------------------------------------------------------------------------
+#include <stdbool.h>
+#include <stdint.h>
+#include "inc/hw_memmap.h"
+#include "inc/hw_types.h"
+#include "driverlib/debug.h"
+#include "driverlib/fpu.h"
+#include "driverlib/gpio.h"
+#include "driverlib/pin_map.h"
+#include "driverlib/rom.h"
+#include "driverlib/sysctl.h"
+#include "driverlib/uart.h"
 #include "Uart.h"
-
+#include "../UTILS/uartstdio.h"
 //------------------------------------------------------------------------------------------
 //=== Global Functions =====================================================================
 //------------------------------------------------------------------------------------------
 void UartInit()
 {
     //
-    // Set the clocking to run directly from the external crystal/oscillator.
-    // TODO: The SYSCTL_XTAL_ value must be changed to match the value of the
-    // crystal on your board.
-    //
-    SysCtlClockSet(SYSCTL_SYSDIV_1 | SYSCTL_USE_OSC | SYSCTL_OSC_MAIN | SYSCTL_XTAL_16MHZ);
-
-    //
-    // Enable the peripherals used by this example.
-    // The UART itself needs to be enabled, as well as the GPIO port
-    // containing the pins that will be used.
+    // Enable the GPIO Peripheral used by the UART.
     //
     SysCtlPeripheralEnable(SYSCTL_PERIPH_UART0);
     SysCtlPeripheralEnable(SYSCTL_PERIPH_GPIOA);
 
     //
-    // Configure the GPIO pin muxing for the UART function.
-    // This is only necessary if your part supports GPIO pin function muxing.
-    // Study the data sheet to see which functions are allocated per pin.
-    // TODO: change this to select the port/pin you are using
+    // Configure GPIO Pins for UART mode.
     //
     GPIOPinConfigure(GPIO_PA0_U0RX);
     GPIOPinConfigure(GPIO_PA1_U0TX);
+    GPIOPinTypeUART(GPIO_PORTA_BASE, GPIO_PIN_0 | GPIO_PIN_1);
 
     //
-    // Since GPIO A0 and A1 are used for the UART function, they must be
-    // configured for use as a peripheral function (instead of GPIO).
-    // TODO: change this to match the port/pin you are using
+    // Use the internal 16MHz oscillator as the UART clock source.
     //
-    GPIOPinTypeUART(GPIO_PORTA_BASE, GPIO_PIN_0 | GPIO_PIN_1);
+    UARTClockSourceSet(UART0_BASE, UART_CLOCK_PIOSC);
+
+    //
+    // Initialize the UART for console I/O.
+    //
+    UARTStdioConfig(0, 115200, 16000000);
 
     //
     // Configure the UART for 115,200, 8-N-1 operation.
@@ -45,9 +48,9 @@ void UartInit()
     // frequency.  This could be also be a variable or hard coded value
     // instead of a function call.
     //
-    UARTConfigSetExpClk(UART0_BASE, SysCtlClockGet(), 115200,
-                        (UART_CONFIG_WLEN_8 | UART_CONFIG_STOP_ONE |
-                         UART_CONFIG_PAR_NONE));
+    // UARTConfigSetExpClk(UART0_BASE, SysCtlClockGet(), 115200,
+    //                    (UART_CONFIG_WLEN_8 | UART_CONFIG_STOP_ONE |
+    //                     UART_CONFIG_PAR_NONE));
 }
 
 int UartTest()

@@ -1,13 +1,7 @@
 
-**** Clean-only build of configuration Debug for project TM4C123G_ASM__00_Blinky_A11 ****
+**** Build of configuration Debug for project TM4C123G_ASM__00_Blinky_A11 ****
 
-"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k clean 
-DEL /F  "TM4C123G_ASM__00_Blinky_A11.out"  "TM4C123G_ASM__00_Blinky_A11.hex" 
-DEL /F "tm4c123gh6pm_startup_ccs.pp" 
-DEL /F "main.pp" 
-Impossibile trovare C:\Users\Filippo\OneDrive\Dropbox\Lavori\Didattica\ARM Exercise\ARM_PROJECTS_CCS_WS\TM4C123G_ASM__00_Blinky_A11\Debug\main.pp
-DEL /F "main.obj" "tm4c123gh6pm_startup_ccs.obj" 
-'Finished clean'
-' '
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+gmake: Nothing to be done for `all'.
 
 **** Build Finished ****

@@ -8,10 +8,10 @@
 //--------------------------------------------------------------------------------------------------
 void DelayMs(uint32_t millis)
 {
-	uint32_t i, TIME_MULTIPLIER=2500;
+    uint32_t i, TIME_MULTIPLIER=2500;
 
-	for (i=0; i < millis*TIME_MULTIPLIER; i++)
-	{
-		; //asm("	nop"); funziona solamente con CCS
-	}
+    for (i=0; i < millis*TIME_MULTIPLIER; i++)
+    {
+        ; //asm("    nop"); funziona solamente con CCS
+    }
 }

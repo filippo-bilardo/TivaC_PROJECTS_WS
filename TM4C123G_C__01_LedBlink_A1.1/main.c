@@ -1,23 +1,23 @@
 //==========================================================================================
 //
-// Project:	LedBlink
-// Date:	13.11.15
-// Author:	Filippo Bilardo
+// Project: LedBlink
+// Date:    13.11.15
+// Author:  Filippo Bilardo
 //
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //
 //  Lampeggio di un led presente nella scheda utilizzando un software delay
 //
-// Ver		Date		Comment
+// Ver      Date        Comment
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-// A1.0		13.11.15	Versione iniziale
-//						Il firmware è realizzato con il numero minimo indispensabile
-//						di line di codice
-// A1.1		13.11.15	Strutturazione del codice utilizzando funzioni e utilizzo di
-//						costanti
+// A1.0     13.11.15    Versione iniziale
+//                      Il firmware è realizzato con il numero minimo indispensabile
+//                      di line di codice
+// A1.1     13.11.15    Strutturazione del codice utilizzando funzioni e utilizzo di
+//                      costanti
 //
 //==========================================================================================
-//------------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------------------
 //=== Includes =============================================================================
 //------------------------------------------------------------------------------------------
 //#include <stdint.h>
@@ -36,13 +36,13 @@ typedef unsigned int   uint32_t;
 
 // Hardware Abstraction Layer
 #define LED0_PIN			0x04	//J4.02 PF3 31 - - SSI1Fss CAN0Tx T1CCP1 - - TRCLK
-#define LED0_SYSCTL_PORT	SYSCTL_RCGC2_GPIOF
-#define LED0_PORT_DATA_R	GPIO_PORTF_DATA_R
-#define LED0_PORT_DIR_R		GPIO_PORTF_DIR_R
-#define LED0_PORT_AFSEL_R	GPIO_PORTF_AFSEL_R
-#define LED0_PORT_DEN_R		GPIO_PORTF_DEN_R
-#define LED0_PORT_AMSEL_R	GPIO_PORTF_AMSEL_R
-#define LED0_PORT_DATA_R	GPIO_PORTF_DATA_R
+#define LED0_SYSCTL_PORT    SYSCTL_RCGC2_GPIOF
+#define LED0_PORT_DATA_R    GPIO_PORTF_DATA_R
+#define LED0_PORT_DIR_R     GPIO_PORTF_DIR_R
+#define LED0_PORT_AFSEL_R   GPIO_PORTF_AFSEL_R
+#define LED0_PORT_DEN_R     GPIO_PORTF_DEN_R
+#define LED0_PORT_AMSEL_R   GPIO_PORTF_AMSEL_R
+#define LED0_PORT_DATA_R    GPIO_PORTF_DATA_R
 
 //------------------------------------------------------------------------------------------
 //=== Prototipi delle funzioni =============================================================

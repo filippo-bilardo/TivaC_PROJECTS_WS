@@ -52,6 +52,7 @@ main: 	.asmfunc
 	;
 	;FSYSCTL_RCGC2_R |=  SYSCTL_RCGC2_GPIOF; 	// PortF Clock Gating Control 	// activate port
 	LDR	R0, FSYSCTL_RCGC2_R			
+	LDR R1, [R0]                    ; R1 = [R0]
 	ORR	R1, R0, #SYSCTL_RCGC2_GPIOF
 	STR	R1, [R0]
 	NOP								;allow time for clock to start

@@ -3,10 +3,10 @@
 //      |  ___| |  _ \
 //      | |_    | |_| |
 //      |  _|   |  _ /
-//	    | |     | |_| |
-//	www.|_|     |_____/-labs.blogspot.it
+//      | |     | |_| |
+//  www.|_|     |_____/-labs.blogspot.it
 //
-// Led driver: Funzioni per l'utilizzo dei led presenti nella scheda
+// Uart driver
 //
 // Open Source Licensing
 // This program is free software: you can redistribute it and/or modify it under the terms
@@ -20,26 +20,15 @@
 // You should have received a copy of the GNU General Public License along with this
 // program. If not, see <http://www.gnu.org/licenses/>.
 //
-// Author:	Filippo Bilardo
+// Author:  Filippo Bilardo
 //
-// Ver    	Date        Comment
+// Ver    Date       Comment
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-// 1.0.0	15.11.15 	Initial version
+// 1.0.0  15.11.15   Initial version
 //
 //==========================================================================================
 #ifndef _UART
 #define _UART
-
-//------------------------------------------------------------------------------------------
-//=== Includes =============================================================================
-//------------------------------------------------------------------------------------------
-#include <stdbool.h>
-#include <stdint.h>
-#include "inc/hw_memmap.h"
-#include "driverlib/gpio.h"
-#include "driverlib/pin_map.h"
-#include "driverlib/sysctl.h"
-#include "driverlib/uart.h"
 
 //------------------------------------------------------------------------------------------
 //=== Function prototypes ==================================================================
